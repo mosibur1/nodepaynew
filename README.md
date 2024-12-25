@@ -31,10 +31,10 @@
 ## Installation
 **1. Clone the repository:**
    ```bash
-   git clone https://github.com/Enukio/NodepayBot.git
+   git clone https://github.com/mosibur1/nodepaynew.git
    ```
    ```bash
-   cd NodepayBot
+   cd nodepaynew
    ```
 **2. Install dependencies:**
    ```bash
@@ -126,15 +126,6 @@ Set the following environment variables in a `.env` file:
 | `PING_DURATION`    | `1800`        | Total duration (in seconds) for periodic pinging.    |
 | `DEBUG`            | `False`       | Enables or disables debug mode.                      |
 
----
-
-## Need Proxy?
-1. Sign up at [Proxies.fo](https://app.proxies.fo/ref/d02516e7-56b3-9a1f-b7ca-1fb08669f7a6).
-2. Go to [Plans](https://app.proxies.fo/plans) and only purchase the "ISP plan" (Residential plans don’t work).
-3. Top up your balance, or you can directly buy a plan and pay with Crypto!
-4. Go to the Dashboard, select your ISP plan, and click "Generate Proxy."
-5. Set the proxy format to `protocol://username:password@hostname:port` and choose any number for the proxy count.
-6. Paste the proxies into `proxies.txt`.
 
 ---
 
